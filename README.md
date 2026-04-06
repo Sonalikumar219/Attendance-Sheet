@@ -2,6 +2,10 @@
 This project is an Excel-based automated attendance tracking system designed to simplify and digitize daily attendance recording. It uses built-in Excel functions and formatting to automatically calculate attendance status, totals, and percentages.
 
 
+https://github.com/user-attachments/assets/7e314edb-6610-4d15-bdc1-7bb9cad3d279
+
+
+
 
 
 
